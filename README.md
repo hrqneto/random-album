@@ -1,4 +1,4 @@
-# teste-vue
+# Random Album
 
 ## Project setup
 ```
